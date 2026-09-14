@@ -2,14 +2,14 @@
 
 This repository contains my **Natural Language Processing (NLP)** academic work as part of my **BCA – Artificial Intelligence & Data Science** program.
 
-## 👨‍🎓 Student Details
+##  Student Details
 
 * **Name:** Rakesh
 * **Program:** BCA – Artificial Intelligence & Data Science
 * **Subject:** Natural Language Processing (NLP)
 * **Academic Year:** 2025–2027
 
-## 📚 About This Repository
+##  About This Repository
 
 This repository is created to maintain and organize my NLP subject materials, including:
 
@@ -20,7 +20,7 @@ This repository is created to maintain and organize my NLP subject materials, in
 * 📄 Study Materials
 * 📑 Academic Documents
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 NLP-BCA-AI-DS/
@@ -43,7 +43,7 @@ NLP-BCA-AI-DS/
     └── Academic Documents
 ```
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 Through this subject, I aim to understand:
 
@@ -58,7 +58,7 @@ Through this subject, I aim to understand:
 * Machine Learning applications in NLP
 * Advanced NLP concepts
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 * **Python**
 * **Jupyter Notebook**
@@ -69,7 +69,7 @@ Through this subject, I aim to understand:
 * **Pandas**
 * **NumPy**
 
-## 📌 Purpose
+##  Purpose
 
 This repository serves as my **academic reference and learning portfolio** for the Natural Language Processing subject.
 
@@ -77,6 +77,6 @@ I will continuously update this repository with new notes, assignments, lab prog
 
 ---
 
-⭐ **If you find this repository useful, feel free to explore the materials.**
+ **If you find this repository useful, feel free to explore the materials.**
 
-**Made with ❤️ while learning Artificial Intelligence & Data Science.**
+**Made with while learning Artificial Intelligence & Data Science.**
